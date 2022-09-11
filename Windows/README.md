@@ -8,7 +8,7 @@ Alphabet: ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789!#$%
 Alphabet: ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789```<hr>
 
 ### BrainWords2<br>
-Alphabet: ```abcdefghijklmnopqrstuvwxyz 0123456789-_```<hr>
+Alphabet: ```abcdefghijklmnopqrstuvwxyz 0123456789-_``` (for email)<hr>
 
 ### 30xx
 For GPU: Tesla GA10x cards, RTX Ampere <br>
