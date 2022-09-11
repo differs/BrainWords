@@ -2,6 +2,10 @@
 ## Find Lost Bitcoin Passphrases
 
 **Find your lost passphrase get 50% of the find**</br>
+Finds up to $100 are yours 100%, in return you will receive a decrypted private key (WIF)</br>
+If the amount is over $100 you will be paid 50%<hr>
+
+
 Search passphrases on the fastest program in the world</br>
 [18,972](https://allprivatekeys.com/hacked-brainwallets-with-balance) passphrases were found, an estimated 5,000 passphrases are lost</br>
 They were found on a processor with a maximum speed of 100,000 characters per second.</br>
@@ -87,9 +91,7 @@ Privkey: XXX...</br>
 ===================</br>
 The address and key will also be written to the text file FOUND.txt</br>
 Do not tell anyone the found key!</br>
-Write me a private message in telegram phrutis</br>
-Finds up to $100 are yours 100%, in return you will receive a decrypted private key (WIF)</br>
-If the amount is over $100 you will be paid 50%<hr>
+Write me a private message in telegram phrutis<hr>
 
 Why does the program use a lot of RAM?</br>
 The program creates the necessary tables and stores them in memory.<hr>
