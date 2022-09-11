@@ -25,8 +25,8 @@ Test test A ->  Test test B -> Test test C -> Test test zzzzz -> Test test zzzzz
 Run ```BrainWords-30xx.exe -v --bits 18 --root "Test test " --suffix 0 --inputAddress addresses.txt -d 0```<hr>
 
 #### Brute + Suffix<br>
-ATest ->  BTest -> CTest -> zzzzzTest -> zzzzzzzzzzzzzzTest<br>
-Run ```BrainWords.exe -v --bits 18 --rootsuffix Test --suffix 0 --inputAddress addresses.txt -d 0```</br>
+A@gmail.com ->  B@gmail.com -> C@gmail.com -> zzzzz@gmail.com -> zzzzzzzzzzzzzz@gmail.com<br>
+Run ```BrainWords.exe -v --bits 18 --rootsuffix @gmail.com --suffix 0 --inputAddress addresses.txt -d 0```</br>
 
 A Test test ->  B Test test -> C Test test -> zzzzz Test test -> zzzzzzzzzzzzzz Test test</br>
 Run ```BrainWords.exe -v --bits 18 --rootsuffix " Test test" --suffix 0 --inputAddress addresses.txt -d 0```<hr>
