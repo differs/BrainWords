@@ -12,6 +12,8 @@ The fact that one 3090 GPU runs in 24 hours is a [legendary CPU program](https:/
 
 Telegram group [**BTC Hunters**](https://t.me/wif500)
 
+![passphrase](https://user-images.githubusercontent.com/82582647/189548688-a9ee6e6c-ee3e-4209-820d-c4b965074b2d.png)
+
 ### Linux version will be later!
 
 ### Windows:
