@@ -8,13 +8,7 @@ They were found on a processor with a maximum speed of 100,000 characters per se
 Challenge Speed 3090 = 180,000,000/sec. It's 1800 times faster.</br>
 The fact that one 3090 GPU runs in 24 hours is a [legendary CPU program](https://github.com/ryancdotorg/brainflayer) in 5 years.</br>
 
-How to search for old lost passphrases:</br>
-If you have a GPU and are ready to search for a key **24/7**</br>
-
-If you do not have a GPU card, you can [**rent**](https://vast.ai) it and participate in a collective search. </br>
-For some users, [**renting**](https://vast.ai) is cheaper than searching on their own PC. There is also less noise in the house.</br>
-When renting, you must take into account the risk that the key may not be found at all.</br> 
-You may incur losses. Think of it not as earnings, but as a lottery.
+## How to search for old lost passphrases:</br>
 
 Telegram group [**BTC Hunters**](https://t.me/wif500)
 
@@ -114,7 +108,7 @@ No, the program is not for sale.<hr>
 
 What guarantees are there that you will pay me 50% when I find the private key?</br>
 If you have found several addresses, start small and build up.</br>
-There are no guarantees anywhere, the challenge is designed for trust.<hr>
+The challenge is designed for trust.<hr>
 
 I have a RTX 3060 TI card, and I have a low speed, how can speed up?</br>
 In the new drivers for 30xx Ti, a limiter is installed that slows down the speed by half.</br>
