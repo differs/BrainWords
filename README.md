@@ -16,17 +16,16 @@ The fact that one 3090 GPU runs in 24 hours is a [legendary CPU program](https:/
 
 Telegram group [**BTC Hunters**](https://t.me/wif500)
 
-![passphrase](https://user-images.githubusercontent.com/82582647/189548688-a9ee6e6c-ee3e-4209-820d-c4b965074b2d.png)
 
-### Linux version will be later!
+
 
 ### Windows:
 #### Prefix + Combinations<br>
 TestA ->  TestB -> TestC -> Testzzzzz -> Testzzzzzzzzzzzzzz<br>
-Run ```BrainWords-30xx.exe -v --bits 18 --root Test --suffix 0 --inputAddress addresses.txt -d 0```
+Run ```BrainWords.exe -v --bits 18 --root Test --suffix 0 --inputAddress addresses.txt -d 0```
 
 Test test A ->  Test test B -> Test test C -> Test test zzzzz -> Test test zzzzzzzzzzzzzz<br>
-Run ```BrainWords-30xx.exe -v --bits 18 --root "Test test " --suffix 0 --inputAddress addresses.txt -d 0```<hr>
+Run ```BrainWords.exe -v --bits 18 --root "Test test " --suffix 0 --inputAddress addresses.txt -d 0```<hr>
 
 #### Combinations + Suffix<br>
 A@gmail.com ->  B@gmail.com -> C@gmail.com -> zzzzz@gmail.com -> zzzzzzzzzzzzzz@gmail.com<br>
@@ -41,6 +40,20 @@ Run ```BrainWords.exe -v --inputPhrase dictionary.txt --inputAddress addresses.t
 -d ? (GPU card number, id)</br>
 --bits 4, 8, 16, 24, 25, 26</br>
 --eth (ETH address search) --inputAddress addrEth.txt
+
+
+### Linux:
+Run ```chmod +x BrainWords-30xx```</br>
+Run ```./BrainWords-30xx -v --bits 18 --root Test --suffix 0 --inputAddress addresses.txt -d 0```
+
+### Example test
+Passphrase: PaSs'?Z*x </br>
+Address: 1HrWJahBjukPACj7QLUPrr6vNXpYxycREc (Add to base.txt)</br>
+
+Run ```BrainWords.exe -v --bits 18 --root PaSs --suffix 0 --inputAddress addresses.txt -d 0```
+
+![Passphrase](https://user-images.githubusercontent.com/82582647/189755356-33b1c813-0e9c-4701-9444-abcf4bb140dd.png)
+
 
 | GPU card   | -bits    | Speed       |
 |------------|----------|-------------|
