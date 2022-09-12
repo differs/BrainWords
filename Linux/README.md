@@ -3,15 +3,6 @@
 ### BrainWords<br>
 Alphabet: ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789!#$%&'()*+,-./:;<=>?@[]^_`{|}~+```<hr>
 
-### BrainWords1<br>
-Alphabet: ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789```<hr>
-
-### BrainWords2<br>
-Alphabet: ```abcdefghijklmnopqrstuvwxyz 0123456789-_``` (for email)<hr>
-
-### BrainWords3<br>
-Alphabet: ```0123456789abcdef```<hr>
-
 ### 20xx for GPU cards:
 GTX 1660 Ti, RTX 2060, RTX 2070, RTX 2080, Titan RTX, Quadro RTX 4000, Quadro RTX 5000</br> 
 Quadro RTX 6000, Quadro RTX 8000, Quadro T1000/T2000, Tesla T4, Tesla GA10x cards
