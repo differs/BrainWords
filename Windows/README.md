@@ -12,8 +12,8 @@ Alphabet: ```abcdefghijklmnopqrstuvwxyz 0123456789-_``` (for email)<hr>
 ### BrainWords3<br>
 Alphabet: ```0123456789abcdef```<hr>
 
-### Standart version
-RTX 3090, RTX 3080, RTX 3060, RTX 3070, RTX 3050,
+### The program supports GPU cards:
+RTX 3090, RTX 3080, RTX 3060, RTX 3070, RTX 3050<br>
 RTX A2000, A3000, RTX A4000, A5000, A6000, NVIDIA A40<br>
 RTX A10, RTX A16, RTX A40, A2 Tensor Core GPU</br>
 GTX 1660 Ti, RTX 2060, RTX 2070, RTX 2080, Titan RTX, Quadro RTX 4000, Quadro RTX 5000</br> 
