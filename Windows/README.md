@@ -12,9 +12,9 @@ Alphabet: ```abcdefghijklmnopqrstuvwxyz 0123456789-_``` (for email)<hr>
 ### BrainWords3<br>
 Alphabet: ```0123456789abcdef```<hr>
 
-### Standart
+### Standart version
 
-Tesla GA10x cards, RTX Ampere, A100<br>
+Tesla GA10x cards, RTX Ampere<br>
 RTX 3080, GA102, RTX 3090, RTX A2000, A3000, RTX A4000, A5000, A6000, NVIDIA A40, GA106 <br>
 RTX 3060, GA104, RTX 3070, GA107 <br>
 RTX 3050, RTX A10, RTX A16, RTX A40, A2 Tensor Core GPU</br>
