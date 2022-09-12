@@ -21,21 +21,21 @@ Telegram group [**BTC Hunters**](https://t.me/wif500)
 ### Linux version will be later!
 
 ### Windows:
-#### Prefix + brute<br>
+#### Prefix + Combinations<br>
 TestA ->  TestB -> TestC -> Testzzzzz -> Testzzzzzzzzzzzzzz<br>
 Run ```BrainWords-30xx.exe -v --bits 18 --root Test --suffix 0 --inputAddress addresses.txt -d 0```
 
 Test test A ->  Test test B -> Test test C -> Test test zzzzz -> Test test zzzzzzzzzzzzzz<br>
 Run ```BrainWords-30xx.exe -v --bits 18 --root "Test test " --suffix 0 --inputAddress addresses.txt -d 0```<hr>
 
-#### Brute + Suffix<br>
+#### Combinations + Suffix<br>
 A@gmail.com ->  B@gmail.com -> C@gmail.com -> zzzzz@gmail.com -> zzzzzzzzzzzzzz@gmail.com<br>
 Run ```BrainWords.exe -v --bits 18 --rootsuffix @gmail.com --suffix 0 --inputAddress addresses.txt -d 0```</br>
 
 A Test test ->  B Test test -> C Test test -> zzzzz Test test -> zzzzzzzzzzzzzz Test test</br>
 Run ```BrainWords.exe -v --bits 18 --rootsuffix " Test test" --suffix 0 --inputAddress addresses.txt -d 0```<hr>
 
-#### Finding passphrases from a file</br>
+#### Finding passphrases from a text file</br>
 Run ```BrainWords.exe -v --inputPhrase dictionary.txt --inputAddress addresses.txt -d 0```<hr>
 
 -d ? (GPU card number, id)</br>
