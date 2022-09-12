@@ -3,9 +3,6 @@
 ### BrainWords.exe<br>
 Alphabet: ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789!#$%&'()*+,-./:;<=>?@[]^_`{|}~+```<hr>
 
-### BrainWords1.exe<br>
-Alphabet: ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789```<hr>
-
 ### The program supports GPU cards:
 RTX 3090, RTX 3080, RTX 3060, RTX 3070, RTX 3050<br>
 RTX A2000, A3000, RTX A4000, A5000, A6000, NVIDIA A40<br>
