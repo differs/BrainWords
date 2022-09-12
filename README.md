@@ -22,29 +22,29 @@ Telegram group [**BTC Hunters**](https://t.me/wif500)
 ### Windows:
 #### Prefix + Combinations<br>
 TestA ->  TestB -> TestC -> Testzzzzz -> Testzzzzzzzzzzzzzz<br>
-Run ```BrainWords.exe -v --bits 18 --root Test --suffix 0 --inputAddress addresses.txt -d 0```
+Run ```BrainWords.exe -v --bits 24 --root Test --suffix 0 --inputAddress addresses.txt -d 0```
 
 Test test A ->  Test test B -> Test test C -> Test test zzzzz -> Test test zzzzzzzzzzzzzz<br>
-Run ```BrainWords.exe -v --bits 18 --root "Test test " --suffix 0 --inputAddress addresses.txt -d 0```<hr>
+Run ```BrainWords.exe -v --bits 24 --root "Test test " --suffix 0 --inputAddress addresses.txt -d 0```<hr>
 
 #### Combinations + Suffix<br>
 A@gmail.com ->  B@gmail.com -> C@gmail.com -> zzzzz@gmail.com -> zzzzzzzzzzzzzz@gmail.com<br>
-Run ```BrainWords.exe -v --bits 18 --rootsuffix @gmail.com --suffix 0 --inputAddress addresses.txt -d 0```</br>
+Run ```BrainWords.exe -v --bits 24 --rootsuffix @gmail.com --suffix 0 --inputAddress addresses.txt -d 0```</br>
 
 A Test test ->  B Test test -> C Test test -> zzzzz Test test -> zzzzzzzzzzzzzz Test test</br>
-Run ```BrainWords.exe -v --bits 18 --rootsuffix " Test test" --suffix 0 --inputAddress addresses.txt -d 0```<hr>
+Run ```BrainWords.exe -v --bits 24 --rootsuffix " Test test" --suffix 0 --inputAddress addresses.txt -d 0```<hr>
 
 #### Finding passphrases from a text file</br>
 Run ```BrainWords.exe -v --inputPhrase dictionary.txt --inputAddress addresses.txt -d 0```<hr>
 
 -d ? (GPU card number, id)</br>
---bits 4, 8, 16, 24, 25, 26</br>
+--bits 16, 24, 25, 26</br>
 --eth (ETH address search) --inputAddress addrEth.txt
 
 
 ### Linux:
 Run ```chmod +x BrainWords-30xx```</br>
-Run ```./BrainWords-30xx -v --bits 18 --root Test --suffix 0 --inputAddress addresses.txt -d 0```
+Run ```./BrainWords-30xx -v --bits 24 --root Test --suffix 0 --inputAddress addresses.txt -d 0```
 
 ### Example test
 Passphrase: PaSs'?Z*x </br>
