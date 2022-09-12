@@ -1,15 +1,15 @@
 # Windows x64
 
-### BrainWords<br>
+### BrainWords.exe<br>
 Alphabet: ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789!#$%&'()*+,-./:;<=>?@[]^_`{|}~+```<hr>
 
-### BrainWords1<br>
+### BrainWords1.exe<br>
 Alphabet: ```ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789```<hr>
 
-### BrainWords2<br>
+### BrainWords2.exe<br>
 Alphabet: ```abcdefghijklmnopqrstuvwxyz 0123456789-_``` (for email)<hr>
 
-### BrainWords3<br>
+### BrainWords3.exe<br>
 Alphabet: ```0123456789abcdef```<hr>
 
 ### The program supports GPU cards:
